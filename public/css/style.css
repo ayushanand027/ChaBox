@@ -1,5 +1,7 @@
 
 
+
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -14,7 +16,22 @@ body {
 	background-size: cover;
     background-repeat: no-repeat;
 }
+.newroom_creation{
+	display: flex;
+	justify-content: space-between;
+}
+#newroom_button{
+	width:100px;
+	margin: 0;
 
+}
+#newroom{
+	width: 400px;
+	margin: 0;
+	outline: 0;
+	border: none;
+	font-size: 17px;
+}
 ul {
 	list-style: none;
 }
