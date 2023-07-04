@@ -1,7 +1,7 @@
 # ChaBox
 
 This is a real time chatting application built using HTML, CSS, Javascript, Socket.io, Node.JS and Express.JS.
-This application enables users to join multiple rooms and chat with the participants in that room, a participant gets notified whenever another users joins the same room and one can have a chat with the participant in that paticular room.
+This application enables users to join multiple rooms and chat with the participants in that room, a participant gets notified whenever another users joins the same room and one can have a chat with all the participants present in the same room.
 
 
 
